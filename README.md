@@ -42,7 +42,6 @@
 <a href="#"><img src="https://img.shields.io/badge/-babel-black?style=flat&logo=babel&logoColor=ffffff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Postman-orange?style=flat&logo=postman&logoColor=ffffff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat"></a>
 <a href="#"><img src="https://img.shields.io/badge/-Cypress-black?style=flat&logo=cypress&logoColor=ffffff" /></a>
 <a href="#"><img src="https://img.shields.io/badge/-Jest-orange?style=flat&logo=jest&logoColor=ffffff" /></a>
 <a href="#"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
