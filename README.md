@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mufadal-sadri-5a20aa190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mufadal sadri" height="30" width="40" /></a>
-<a href="https://instagram.com/muffi_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muffi_03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mufadal sadriwala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mufadal sadriwala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mufadal-sadri-5a20aa190/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mufadal sadri" height="30" width="40" /></a>
+<a href="https://instagram.com/muffi_03" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muffi_03" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sadrimufadal?hr_r=1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mufadal sadriwala" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/muffii_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muffii_03" height="30" width="40" /></a> -->
 </p>
 
