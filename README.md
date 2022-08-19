@@ -8,15 +8,9 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👨‍💻 All of my projects are available at portfolio soon
-
 - 💬 Ask me about **Web | Chess**
 
 - 📫 How to reach me **sadrimufadal@gmail.com**
-
-- 📄 Know about my experiences [resume](resume)
-
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
