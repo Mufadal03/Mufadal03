@@ -64,5 +64,5 @@
     <img width="400" height="auto"  alt="Mufadal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Mufadal03&show_icons=true&theme=algolia&count_private=true" />
   </a>
-  
- <a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mufadal03&hide=smalltalk&theme=algolia&layout=compact" alt="Mufadal Sadri" /></a>
+  </p>
+ <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mufadal03&hide=smalltalk&theme=algolia&layout=compact" alt="Mufadal Sadri" /></a></div>
