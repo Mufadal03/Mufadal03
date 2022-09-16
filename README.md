@@ -1,12 +1,12 @@
 <a href="#"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg"  alt="banner"/></a>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋, I'm Mufadal Sadriwala</h1>
-<h3 align="center">A self-motivated and ambitious Full Stack Web Developer , Passion-driven learner and a web developer with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining MERN based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
+<h3 align="center">A self-motivated and ambitious Full Stack Web Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining MERN based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
 <a href="#"><img align="right" width="350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" alt="gif" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mufadal03&label=Profile%20views&color=0e75b6&style=flat" alt="mufadal03" /> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently Looking to contiribute to new projects 
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **Web | Chess**
 
