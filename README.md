@@ -3,7 +3,7 @@
 <h3 align="center">A self-motivated and ambitious Full Stack Web Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining MERN based web applications. Looking forward to joining a progressive and challenging work environment.</h3>
 <br/>
 <br/>
-<a href="mufadal03.github.io">
+<a href="https://mufadal03.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
 </a>
 <a title="sadrimufadal@gmail.com" href="mailto:sadrimufadal@gmail.com">
