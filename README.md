@@ -53,7 +53,7 @@
  <a href="#"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" /></a>
 </p>
 <br>
-
+ 
 <a href="#"><img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" /></a>
 <br/><br/>
 <p display="flex" align="center">
