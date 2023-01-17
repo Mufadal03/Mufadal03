@@ -20,7 +20,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=mufadal03&label=Profile%20views&color=0e75b6&style=flat" alt="mufadal03" /> </p>
 
-- 🔭 I’m currently Looking to contiribute to new projects 
+- 🔭 I’m currently Looking for Full-Stack opportunities 
 - 🌱 I’m currently learning **Backend**
 - 💻 I'm passionate about making creative websites.
 - 💬 Ask me about **Web | Chess**
@@ -58,9 +58,6 @@
 <br/><br/>
 <p display="flex" align="center">
 <a href="#"><img alt="Mufadal's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mufadal03&hide=smalltalk&theme=algolia&layout=compact" width="400" /></a>
-
-
-
   <a href="https://github.com/Mufadal03?tab=repositories">
     <img width="400" height="auto"  alt="Mufadal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Mufadal03&show_icons=true&theme=algolia&count_private=true" />
