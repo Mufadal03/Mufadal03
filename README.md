@@ -64,4 +64,4 @@
   </a>
   </p>
   
- <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mufadal03&hide=smalltalk&theme=algolia&layout=compact" alt="Mufadal Sadri" /></a></div>
+ <div  align="center" style="display: flex; justify-content:"center" ><a href="#"> <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Mufadal03&hide=smalltalk&theme=algolia&layout=compact" alt="Mufadal Sadri" /></a></div>
